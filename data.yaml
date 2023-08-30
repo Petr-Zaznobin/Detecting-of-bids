@@ -1,0 +1,6 @@
+train: "/Users/.../Downloads/segoulsML/train/train/images"
+val: "/Users/.../Downloads/segoulsML/train/valid/images"
+ 
+# class names
+names: 
+  0: 'seguls'
